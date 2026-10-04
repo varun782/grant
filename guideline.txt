@@ -1,0 +1,18 @@
+Community Green Tech Innovation Grant 2026 - Official Guidelines
+
+Overview:
+The Community Green Tech Innovation Grant provides funding to local organizations leveraging technology to solve environmental issues.
+
+Mandatory Eligibility Requirements:
+1. The applicant must be a legally registered 501(c)(3) non-profit organization.
+2. The organization must have been in continuous operation for a minimum of 2 years prior to application.
+3. The applicant's total organizational operating budget for the previous fiscal year must not exceed $500,000.
+4. The application must include an implementation timeline not exceeding 12 months.
+
+Required Documentation (Attachments):
+- A detailed itemized project budget (Attachment A).
+- A copy of the organization's most recent tax return (Form 990).
+
+Recommended Submissions (Bonus points):
+- We highly recommend applicants partner with a local public educational institution.
+- Projects that commit to releasing their software under an open-source license will be prioritized.

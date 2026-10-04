@@ -1,0 +1,11 @@
+Project Title: Smart Water Monitoring for Urban Rivers
+Applicant: EcoData Solutions
+
+Introduction:
+EcoData Solutions is a registered non-profit organization founded in January 2023. We are dedicated to building low-cost sensors to monitor river pollution levels in real-time. We are excited to apply for the Community Green Tech Innovation Grant. 
+
+Financial Overview:
+Our organization operates extremely efficiently. In our last fiscal year, our total operating budget was strictly contained to $425,000, allowing us to focus primarily on hardware deployment rather than administrative overhead. We have attached our itemized project budget to this application which details exactly how the grant funds will be utilized.
+
+Project Timeline & Partnerships:
+Once funded, the sensor deployment and data dashboard launch will be completed in exactly 9 months. To maximize community impact, we have secured a formal partnership with Riverside High School, where students will help build the sensor enclosures as part of their science curriculum. All code for the data dashboard will be published publicly on GitHub.
