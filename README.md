@@ -1,3 +1,5 @@
+Live Application link : https://grant-application-completeness-assi-beta.vercel.app/
+
 # Grant Application Completeness Assistant
 
 An AI-powered application that reviews draft funding applications against supplied grant guidelines. It uses a decoupled architecture with a Next.js frontend and a FastAPI backend to extract requirements, map evidence, track missing documents, and calculate a deterministic completeness score.
